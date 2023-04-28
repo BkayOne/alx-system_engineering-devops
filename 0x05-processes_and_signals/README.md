@@ -1,4 +1,4 @@
-A Simplified Explanation of project:
+                           A Simplified Explanation of project:
 
 In a computing system, a process is an instance of a running program. It consists of an executable program, its data, and the resources and memory allocated to it by the operating system. Processes are fundamental to the functioning of modern operating systems, and they provide a way for multiple programs to run concurrently on a computer system.
 
